@@ -13,6 +13,16 @@ Um e-commerce totalmente funcional
 
 ---
 
+##  👩🏾Integrantes 
+
+- Brenno Ambrozino
+- Erica Lima
+- Graziela Queiroz
+- Luiz Vinícius de Azevedo
+- Matheus Mantini
+
+---
+
 ##  🎯Objetivo do Projeto
 
  Criar um e-commerce totalmente funcional
