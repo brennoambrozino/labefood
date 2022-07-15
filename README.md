@@ -15,11 +15,11 @@ Um e-commerce totalmente funcional
 
 ##  👩🏾Integrantes 
 
-- Brenno Ambrozino
-- Erica Lima
-- Graziela Queiroz
-- Luiz Vinícius de Azevedo
-- Matheus Mantini
+- [Brenno Ambrozino](https://github.com/brennoambrozino)
+- [Erica Lima](https://github.com/EricaInaciadeLima)
+- [Graziela Queiroz](https://github.com/graziela-queiroz)
+- [Luiz Vinícius de Azevedo](https://github.com/azevedolv)
+- [Matheus Mantini](https://github.com/matheusmantini)
 
 ---
 
