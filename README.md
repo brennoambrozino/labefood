@@ -36,7 +36,6 @@ Um e-commerce totalmente funcional
 - [x] Cardápio do Restaurante
 - [x] Carrinho
 - [x] Perfil, Editar Perfil e Histórico de Pedidos
-- [x] Carrinho
 
 ![image](https://user-images.githubusercontent.com/99096015/179120778-b7cdcee0-c102-46b6-94e8-c8d206ff38bc.png) ![image](https://user-images.githubusercontent.com/99096015/179120811-84eb5986-6e9c-4a99-a00a-823058e14d1f.png)
 
